@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Hello i'm Gabriel Teixeira how can i help you to help me</h1>
+<h1>Hello i'm Gabriel Teixeira how can i help you to help me?</h1>
 
-<h2># I work with:</h2>
+<h2>I work with:</h2>
 <p>
 <h2>Front-End</h2>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p>
+<h2>Databases</h2>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
