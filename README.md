@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h1>Hello i'm Gabriel Teixeira how can i help you to help me</h1>
+
+#I work with:
+<p>
+<h2>Front-End</h2>
+  <img src="https://badgen.net/badge/icon/git?icon=git&labelColor=white">
+</p>
