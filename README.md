@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1>Hello i'm Gabriel Teixeira how can i help you to help me?</h1>
 
-<h2>I work with:</h2>
+# I work with:
 <p>
 <h2>Front-End</h2>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
