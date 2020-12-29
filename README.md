@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 <h2>Back-End</h2>
 <p>
   <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+
 </p>
 <h2>Databases</h2>
 <p>
