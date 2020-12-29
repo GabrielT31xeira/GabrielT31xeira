@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </p>
 <h2>Databases</h2>
 <p>
+  <img src="https://img.shields.io/badge/SQLite-%2300f.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
