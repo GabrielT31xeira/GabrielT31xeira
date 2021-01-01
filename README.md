@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 
 <h1>Hello i'm Gabriel Teixeira how can i help you to help me?</h1>
+<img src="./img/428151.png">
 
 <h2>Front-End</h2>
 <p>
