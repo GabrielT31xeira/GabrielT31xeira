@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 <p>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20-%23E34F2.svg?&style=for-the-badge&logo=react&logoColor=white"/>
 </p>
 <h2>Back-End</h2>
 <p>
-  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
   <img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
   <img src="https://img.shields.io/badge/Nodejs%20-%23E34F2.svg?&style=for-the-badge&logo=Node.Js&logoColor=white"/>
 </p>
