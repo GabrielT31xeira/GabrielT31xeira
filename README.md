@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
-<h2>Studying</h2>
+<h2>Working</h2>
 <p>
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
   <img src ="https://img.shields.io/badge/php%20-%F05340.svg?&style=for-the-badge&color=474A8A&logo=php&logoColor=white"/>
