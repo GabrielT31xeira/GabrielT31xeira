@@ -21,14 +21,13 @@ Here are some ideas to get you started:
 <h2>Working</h2>
 <p>
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nodejs%20-%23E34F2.svg?&style=for-the-badge&logo=Node.Js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react%20-%23E34F2.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js%20-4495.svg?&style=for-the-badge&color=3C873A&logo=Node.js&logoColor=303030"/>
+  <img src="https://img.shields.io/badge/react.js%20-4495.svg?&style=for-the-badge&color=white&logo=react&logoColor=61DBFB"/>
 </p>
 <h2>Databases</h2>
 <p>
-  <img src="https://img.shields.io/badge/SQLite-%2300f.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src ="https://img.shields.io/badge/Postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
+  <img src ="https://img.shields.io/badge/postgres%20-4495.svg?&style=for-the-badge&color=white&logo=postgresql&logoColor=336791"/>
 </p>
 
 <h2>Languages</h2>
@@ -37,8 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
-  <img src="https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/java%20-4495.svg?&style=for-the-badge&color=F8981D&logo=java&logoColor=5382A1"/>
 </p>
 <h2>Studying</h2>
 <p>
