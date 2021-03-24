@@ -23,6 +23,7 @@ Here are some ideas to get you started:
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js%20-4495.svg?&style=for-the-badge&color=3C873A&logo=Node.js&logoColor=303030"/>
   <img src="https://img.shields.io/badge/react.js%20-4495.svg?&style=for-the-badge&color=white&logo=react&logoColor=61DBFB"/>
+  <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 <h2>Databases</h2>
 <p>
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
-  <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/java%20-4495.svg?&style=for-the-badge&color=F8981D&logo=java&logoColor=5382A1"/>
+  <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/>
 </p>
 <h2>Studying</h2>
 <p>
