@@ -3,11 +3,12 @@
 
 <h2 style="text-align: center">Work Daily</h2>
 <h3>Frameworks</h3>
+<p>
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js%20-4495.svg?&style=for-the-badge&color=41B883&logo=Vue.js&logoColor=34495E"/>
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/tailwind%20-%F05340.svg?&style=for-the-badge&color=22d3ee&logo=tailwindcss&logoColor=white"/>
-
+</p>
 <h3>Databases</h3>
 <p>
   <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
