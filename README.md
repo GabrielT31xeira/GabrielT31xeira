@@ -1,24 +1,7 @@
-<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				h1, h2{
-          text-align: center
-        },
-        .languages{
-          text-align: center
-        },
-        .content{
-          display: flex;
-          flex-wrap: wrap;
-          flex-direction: column;
-          width: 500px;
-          height: 400px;
-          align-content: space-between;
-        }
-			</style>
+        
+<h1 style="text-align: center">Hello i'm Gabriel Teixeira</h1>
 
-<h1>Hello i'm Gabriel Teixeira</h1>
-
-<h2>Work Daily</h2>
+<h2 style="text-align: center">Work Daily</h2>
 <div class="content">
 <div>
 <h3>Frameworks</h3>
@@ -35,7 +18,7 @@
 </p>
 </div>
 
-<h2>Languages</h2>
+<h2 style="text-align: center">Languages</h2>
 <p class="languages">
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
