@@ -2,6 +2,7 @@
 <h1 style="text-align: center">Hello i'm Gabriel Teixeira</h1>
 
 <h2 style="text-align: center">Work Daily</h2>
+<p>
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js%20-4495.svg?&style=for-the-badge&color=41B883&logo=Vue.js&logoColor=34495E"/>
   <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -16,7 +17,7 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-
+</p>
 <h2 style="text-align: center">Studying Data Science</h2>
 <img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&color=BFC2C5&logo=r&logoColor=276DC2"/>
 <img src="https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&color=FFE873&logo=python&logoColor=276DC2"/>
