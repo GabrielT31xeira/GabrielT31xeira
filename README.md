@@ -7,9 +7,10 @@
 
 <h3>Back-End</h3>
 <hr>
+<p>
   <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/>
-  
+</p>
 <h3>Front-End</h3>
 <hr>
   <img src="https://img.shields.io/badge/Vue.js%20-4495.svg?&style=for-the-badge&color=41B883&logo=Vue.js&logoColor=34495E"/>
