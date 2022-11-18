@@ -20,8 +20,10 @@
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
-  <h3>Databases</h3>
-  <hr>
+</p>
+<h3>Databases</h3>
+<hr>
+<p>
   <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
   <img src ="https://img.shields.io/badge/postgres%20-4495.svg?&style=for-the-badge&color=white&logo=postgresql&logoColor=336791"/>
 </p>
