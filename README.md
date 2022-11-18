@@ -7,8 +7,11 @@
 <p>
 <h3>Back-End</h3>
 <hr>
-  <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/>
+<div style="flex-direction: row;">
+<div><img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/></div>
+<div><img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/></div>
+</div>
+  
 <h3>Front-End</h3>
 <hr>
   <img src="https://img.shields.io/badge/Vue.js%20-4495.svg?&style=for-the-badge&color=41B883&logo=Vue.js&logoColor=34495E"/>
@@ -21,7 +24,7 @@
   <hr>
   <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
   <img src ="https://img.shields.io/badge/postgres%20-4495.svg?&style=for-the-badge&color=white&logo=postgresql&logoColor=336791"/>
-  
+
 
 <h3>Working</h3>
 <hr>
