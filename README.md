@@ -4,13 +4,11 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h1 style="text-align: left">Work Daily</h2>
-<p>
+
 <h3>Back-End</h3>
 <hr>
-<div style="flex-direction: row;">
-<div><img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/></div>
-<div><img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/></div>
-</div>
+  <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/>
   
 <h3>Front-End</h3>
 <hr>
@@ -28,10 +26,10 @@
 
 <h3>Working</h3>
 <hr>
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-</p>
+
 <h3>Contact:</h3>
 <p>gt3ixeira@gmail.com</p>
