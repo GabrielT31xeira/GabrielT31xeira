@@ -21,11 +21,12 @@
   <hr>
   <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
   <img src ="https://img.shields.io/badge/postgres%20-4495.svg?&style=for-the-badge&color=white&logo=postgresql&logoColor=336791"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  
 
-<h3>Databases</h3>
+<h3>Working</h3>
 <hr>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 
 </p>
