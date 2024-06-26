@@ -13,8 +13,6 @@
 
 Let's connect and explore possibilities together!
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielT31xeira&show_icons=true&theme=radical)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h1 style="text-align: left">Work Daily</h2>
