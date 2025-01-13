@@ -1,42 +1,41 @@
+# 👨‍💻 Back-End Developer  
+**Tech Stack:** Laravel, PHP, Docker  
 
-<h1>Back-End Developer</h1><p>Laravel, PHP, Docker</p>
+# 🌌 Aspiring Data Scientist  
+**Focus Areas:** Python, R  
 
-<h1>Future data scientist</h1><p>Python and R</p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+---
 
-<h1 style="text-align: left">Work Daily</h2>
+### 🛠️ Daily Tools and Technologies  
 
-<h3>Back-End</h3>
-<hr>
-<p>
-  <img src ="https://img.shields.io/badge/laravel%20-%F05340.svg?&style=for-the-badge&color=F05340&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/php8%20-%231572B6.svg?&style=for-the-badge&color=C8D3F5&logo=php&logoColor=5D6DA1"/>
-</p>
-<h3>Front-End</h3>
-<hr>
-<p>
-  <img src="https://img.shields.io/badge/Vue.js%20-4495.svg?&style=for-the-badge&color=41B883&logo=Vue.js&logoColor=34495E"/>
-  <img src="https://img.shields.io/badge/Angular.ts-4495.svg?&style=for-the-badge&color=B52E31&logo=Angular&logoColor=000000"/>
-  <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/tailwind%20-%F05340.svg?&style=for-the-badge&color=22d3ee&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&color=323330&logo=javascript&logoColor=%23F7DF1"/>
-</p>
-<h3>Databases</h3>
-<hr>
-<p>
-  <img src="https://img.shields.io/badge/mysql%20-4495.svg?&style=for-the-badge&color=F29111&logo=mysql&logoColor=00758F"/>
-  <img src ="https://img.shields.io/badge/postgres%20-4495.svg?&style=for-the-badge&color=white&logo=postgresql&logoColor=336791"/>
-</p>
+#### **Back-End**  
+![Laravel](https://img.shields.io/badge/Laravel-%23F05340.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP8-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 
-<h3>Working</h3>
-<hr>
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
+#### **Front-End**  
+![Vue.js](https://img.shields.io/badge/Vue.js-%2341B883.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular.ts-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)  
 
-<h3>Contact:</h3>
-<p>gt3ixeira@gmail.com</p>
+#### **Databases**  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+#### **Version Control**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
+
+---
+
+### 📊 GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GitHub Stats" />
+
+---
+
+### 📫 Contact  
+✉️ Email: **gt3ixeira@gmail.com**  
