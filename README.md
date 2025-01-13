@@ -1,6 +1,7 @@
 
-<h1>Back-End Developer</h1><h2>Laravel, PHP, Docker</h2>
+<h1>Back-End Developer</h1><p>Laravel, PHP, Docker</p>
 
+<h1>Future data scientist</h1><p>Python and R</p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <h1 style="text-align: left">Work Daily</h2>
