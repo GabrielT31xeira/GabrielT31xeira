@@ -1,17 +1,5 @@
 
-👋 Hello! I'm Gabriel Teixeira, a technology enthusiast and systems information aficionado. My journey started at the State of Tocantins Military High School, where I delved into the field of Computer Networks. There, I gained a strong foundation in PHP, MySQL, HTML, and CSS, which provided me with a solid base for my career.
-
-🎓 Currently, I'm pursuing a degree in Information Systems at UNITINS, where I continue to broaden my horizons and deepen my understanding of innovative technologies. My academic path has taught me to approach complex problems in a structured and creative way.
-
-💼 With over 4 years of experience, I've had the opportunity to work on various challenging projects. My passion lies in web development, and I'm constantly updating my skills to keep up with industry trends. I have a strong command of PHP and Laravel, enabling me to create robust and efficient solutions.
-
-🌟 Furthermore, my journey led me to explore the world of front-end frameworks like Vue.js and Angular. Through these technologies, I've crafted interactive and responsive interfaces that enhance the user experience.
-
-🚀 I'm always seeking new challenges and opportunities to learn and grow. I have a keen eye for detail and a problem-solving mindset. I believe collaboration is the key to success, and I enjoy working in teams to achieve outstanding results.
-
-🌐 If you're looking for someone passionate about web development, with a solid foundation in both back-end and front-end technologies, I'd love to connect and explore how I can contribute to your projects.
-
-Let's connect and explore possibilities together!
+<h1>Back-End Developer</h1><h2>Laravel, PHP, Docker</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielT31xeira&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
